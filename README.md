@@ -6,12 +6,17 @@ The Pomodoro Technique is a time management method that can be used for any task
 The aim of the Pomodoro Technique is to use time as a valuable ally in accomplishing what we want to do in the way we want to do it, and to enable us to improve continually the way we work or study.
 
 ## Screenshot
-
-<table border=0>
+<table>
 <tr>
-<td>![screen1](https://i.ibb.co/yhzgYz3/Screenshot-20200408-225301.png)</td>
-<td>![screen2](https://i.ibb.co/QY3sgF6/Screenshot-20200408-225306.png)</td>
-<td>![screen3](https://i.ibb.co/6Dhkvds/Screenshot-20200408-225312.png)</td>
+<td>
+<img src="https://i.ibb.co/yhzgYz3/Screenshot-20200408-225301.png" alt="Logo" >![]()
+</td>
+<td>
+<img src="https://i.ibb.co/QY3sgF6/Screenshot-20200408-225306.png"  alt="Logo" >![]()
+</td>
+<td>
+<img src="https://i.ibb.co/6Dhkvds/Screenshot-20200408-225312.png"  alt="Logo" >![]()
+</td>
 </tr>
 </table>
 
